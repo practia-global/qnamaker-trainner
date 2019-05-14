@@ -1,0 +1,467 @@
+{
+    "answers": [
+        {
+            "questions": [],
+            "answer": "No good match found in KB.",
+            "score": 0.0,
+            "id": -1,
+            "metadata": [],
+            "question_asked": {
+                "question": "bla",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Cuál es la fecha establecida para el pago de haberes?",
+                "¿Cuándo se paga el sueldo?",
+                "¿Cuándo depositan el sueldo?",
+                "Sueldo",
+                "Haberes",
+                "Pago",
+                "¿Qué día se paga?",
+                "¿Qué día es el pago de haberes?",
+                "¿Qué día es el pago del sueldo?",
+                "¿Qué día se deposita el sueldo?",
+                "¿Qué día depositan el salario?",
+                "Depósito de sueldo",
+                "Salario",
+                "¿Qué día se cobra?",
+                "¿Qué día cobramos?",
+                "Día de pago",
+                "Cobro",
+                "¿Qué día depositan?",
+                "Depósito",
+                "¿Cuándo depositan?"
+            ],
+            "answer": "El plazo legal para el pago de sueldos es hasta el cuarto día hábil del mes siguiente, pero Practia acredita los mismos el último día hábil del mes a cobrar.",
+            "score": 61.23,
+            "id": 10,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cuándo cobro?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿A qué familiares puedo incorporar a mi grupo familiar?",
+                "¿A quiénes puedo incorporar a mi prepaga?",
+                "¿Qué familiares puedo incorporar a mi prepaga?",
+                "Incorporar familiares al grupo familiar de mi prepaga?",
+                "Incorporar familiares al grupo familiar",
+                "Grupo familiar de la prepaga",
+                "¿A quiénes puedo ampliar el grupo familiar de mi prepaga?",
+                "Ampliar grupo familiar de la prepaga",
+                "Quiero incorporar familiares a mi grupo familiar",
+                "¿A quiénes puedo incorporar en mi grupo familiar?",
+                "¿A qué familiares puedo agregar a mi grupo familiar?",
+                "¿A quiénes puedo agregar a mi prepaga?",
+                "¿Qué familiares puedo agregar a mi prepaga?",
+                "Agregar familiares al grupo familiar de mi prepaga?",
+                "Agregar familiares al grupo familiar",
+                "Quiero agregar familiares a mi grupo familiar",
+                "¿A quiénes puedo agregar en mi grupo familiar?",
+                "Unir familiares a mi grupo familiar",
+                "¿A qué familiares puedo unir a mi grupo familiar?",
+                "¿Qué familiares puedo unir a mi grupo familiar?"
+            ],
+            "answer": "Practia extiende el beneficio de medicina prepaga al grupo familiar primario de sus colaboradores, entendiéndose por tal al cónyuge, hijos e hijos de cónyuge. En el caso de hijos podrán incluirse hasta los 21 años o hasta los 25 inclusive si se encontraran estudiando y sin desempeñar tareas en relación de dependencia. En caso de cónyuges que se encuentren trabajando te solicitaremos la realización del trámite de unificación de aportes ante la Superintendencia de Servicios de Salud.",
+            "score": 82.41,
+            "id": 9,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿A quiénes puedo incluir en mi medicina prepaga?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Es posible mejorar el plan de cobertura médica ofrecido por Practia?",
+                "¿Es posible mejorar el plan de la prepaga ofrecido por Practia?",
+                "¿Es posible mejorar el plan de medicina prepaga ofrecido por Practia?",
+                "¿Puedo mejorar el plan de cobertura médica ofrecido por Practia?",
+                "¿Puedo mejorar el plan de la prepaga ofrecido por Practia?",
+                "¿Puedo mejorar el plan de medicina prepaga ofrecido por Practia?",
+                "Mejorar el plan de cobertura médica",
+                "Mejorar el plan de la prepaga",
+                "Mejorar el plan de medicina prepaga",
+                "Mejorar el plan de la cobertura de médica",
+                "¿Se puede mejorar el plan de la cobertura médica que ofrece Practia?",
+                "¿Se puede mejorar el plan de la prepaga que ofrece Practia?",
+                "Quiero saber si se puede mejorar el plan de la cobertura médica que ofrecen",
+                "Quiero saber si se puede mejorar el plan de la prepaga que ofrecen",
+                "Quisiera saber si es posinle mejorar el plan de la conertura médica que ofrece Practia",
+                "Quisiera saber si es posinle mejorar el plan de la prepaga que ofrece Practia",
+                "¿Puedo contratar un plan de cobetura médica mejor?",
+                "¿Puedo contratar un plan de prepaga mejor?",
+                "¿Puedo contratar un plan de medicina prepaga mejor?"
+            ],
+            "answer": "Sí, siempre y cuando el empleado se haga cargo de la diferencia entre el plan ofrecido por la empresa y el plan elegido. La mencionada diferencia será facturada por Galeno directamente al empleado.",
+            "score": 92.72,
+            "id": 8,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Puedo mejorar el plan de mi prepaga?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Qué debo tener en cuenta al momento de solicitar un certificado de trabajo?",
+                "Cerificado de trabajo",
+                "Solcitiar certificado de trabajo",
+                "Constancia de trabajo",
+                "Pedir certificado de trabajo",
+                "Requqrimientos para pedir constancia de trabajo",
+                "¿Cómo pedir certificado de trabajo?",
+                "Solicitar certificado de trabajo",
+                "Necesito un certificado de trabajo",
+                "Necesito una constancia de trabajo",
+                "¿Cómo debo pedir un certificado de trabajo?",
+                "¿Qué tengo que presentar para pedir una constacia de trabajo?",
+                "¿Cómo solicitar un certificado de trabajo?",
+                "Quiero pedir un certificado de trabajo",
+                "Quiero solicitar un certificado de trabajo",
+                "Quisiera solicitar un certificado de trabajo",
+                "Quiero un certificado de trabajo",
+                "Pedir una constancia de trabajo",
+                "¿Qué debo tener en cuenta al momento de pedir un certificado de trabajo?",
+                "Quiero slicitar un certificado de trabajo"
+            ],
+            "answer": "A fin de asegurarse que el certificado confeccionado cumpla con los requisitos necesarios, recomendamos averiguar con la entidad ante la cual deba ser presentado qué información debe contener (fecha de ingreso, remuneración, horario de trabajo, firma del empleador certificada, etc).",
+            "score": 70.87,
+            "id": 3,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cómo pido una constancia de trabajo?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿En qué momento puede solicitarse un adelanto y cuándo lo tendré disponible en mi cuenta?",
+                "¿Cuándo puedo solicitar un adelanto?",
+                "¿En qué momento puedo solicitar un anticipo?",
+                "¿Cuándo tendré disponible mi anticipo?",
+                "¿Cuánto tarda en estar disponible mi adelanto?",
+                "¿Cuándo puedo hacer mi anticipo y a partir de qué fecha lo tengo disponible?",
+                "¿Cuándo puedo hacer mi anticipo y cuánto darda en estar disponible?",
+                "¿En qué momento está disponible mi anticipo?",
+                "Anticipo",
+                "Solicitud de adelanto",
+                "Un anticipo",
+                "Mi anticipo",
+                "Pedir anticipo",
+                "Solicitar anticipo",
+                "Quiero un anticipo",
+                "¿Cómo pido mi anticipo?",
+                "¿Cómo solicito mi anticipo?",
+                "Necesito un adelanto",
+                "Que me den un anticipo",
+                "Un adelanto quiero"
+            ],
+            "answer": "Todas las solicitudes recibidas hasta el miércoles a las 10 horas se acreditarán al día siguiente, y luego de ese horario será tenida en cuenta para la semana siguiente. La semana de acreditación de sueldos no se procesarán adelantos.",
+            "score": 67.63,
+            "id": 1,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cuándo puedo pedir un anticipo?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Puedo modificar la cuenta bancaria en la cual se deposita mi sueldo?",
+                "Modificar cuenta bancaria",
+                "Cuenta bancaria",
+                "Cuenta",
+                "¿Cómo modificar mi cuenta?",
+                "Quiero modificar mi cuenta",
+                "Modificar cuenta",
+                "Cuenta en la que cobro",
+                "Modificar cuenta en la que cobro",
+                "Cambiar cuenta de banco",
+                "Cambiar cuenta de depósito",
+                "Mi cuenta quiero cambiar",
+                "¿Cómo cambiar mi cuenta?",
+                "Cuenta de depósito",
+                "Cambiar donde me depositan",
+                "Elegir otra cuenta para cobrar",
+                "Cobrar en otra cuenta",
+                "Depósito en otra cuenta",
+                "Cuenta del banco"
+            ],
+            "answer": "Sí. En caso de que sea una cuenta ya existente deberás enviar la constancia del CBU para poder registrar los datos correctamente. Si deseas abrir una cuenta nueva de las ofrecidas por Practia, deberás solicitarlo por mail y te contactaremos para informarte los pasos a seguir.",
+            "score": 88.5,
+            "id": 4,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Puedo cambiar mi cuenta de banco?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Qué documentación debo presentar para incorporar a un familiar a mi cobertura?",
+                "¿Cómo incorporar a un familiar a mi cobertura?",
+                "Incorporar familiar a mi cobertura",
+                "Incorporación de un familiar a mi cobertura",
+                "Documentación a presentar para incorporar un familiar a mi cobertura",
+                "¿Cómo debo hacer para incorporar un familiar a mi cobertura?",
+                "Quiero saber qué documentación debo presentar para incorporar un familiar a mi cobetura",
+                "¿Qué documentos debo presentar para incorporar un familiar a mi cobertura de salud?",
+                "¿Qué documentación debo presentar para agregar a un familiar a mi cobertura?",
+                "¿Cómo agregar a un familiar a mi cobertura?",
+                "Agregar familiar a mi cobertura",
+                "Documentación a presentar para agregar un familiar a mi cobertura",
+                "¿Cómo debo hacer para agregar un familiar a mi cobertura?",
+                "Quiero saber qué documentación debo presentar para agregar un familiar a mi cobetura",
+                "¿Qué documentos debo presentar para agregar un familiar a mi cobertura de salud?",
+                "¿Qué papeles debo presentar para incorporar a un familiar a mi cobertura?",
+                "Paples a presentar para incorporar un familiar a mi cobertura",
+                "Quiero saber qué papeles debo presentar para incorporar un familiar a mi cobetura",
+                "¿Qué papeles debo presentar para incorporar un familiar a mi cobertura de salud?",
+                "¿Qué tengo que presentar para incorporar un familiar a mi cobertura?",
+                "¿Cómo tramitar la incorporación de un familiar a mi cobertura?"
+            ],
+            "answer": "La documentación por presentar será: -\tDNI -\tCUIL -\tCertificado de vínculo (matrimonio, nacimiento, concubinato) -\tConstancia de unificación de aportes, sólo en aquellos casos en los cuales el cónyuge se encuentre trabajando en relación de dependencia.",
+            "score": 79.95,
+            "id": 7,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Qué documentación debo presentar?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Cuál es el monto que puedo solicitar de anticipo?",
+                "¿Qué monto puedo solicitar de anticipo?",
+                "¿Cuánta plata puedo pedir como adelanto?",
+                "¿Cuánto dinero puedo pedir como anticipo?",
+                "¿En el adelanto cuánta plata me dan?",
+                "¿En el anticipo cuánto dinero me dan?",
+                "¿De qué monto es el adelanto?",
+                "¿Qué monto puedo pedir por anticipado?",
+                "Monto por anticipado",
+                "Plata por anticipado",
+                "Dinero de adelanto",
+                "¿De cuánto puede ser el adelanto?",
+                "¿El anticipo de cuánto puede ser?",
+                "¿Cuánto puedo pedir en el anticipo?",
+                "En el anticipo cuánto puedo pedir?",
+                "¿Cuánto me dan en el anticipo?",
+                "El monto del adelanto",
+                "¿Cuánto dinero de anticipo dan?",
+                "Saber el monto del anticipo",
+                "Conocer el monto del adelanto"
+            ],
+            "answer": "El monto máximo por anticipar será cómo máximo la mitad de un sueldo neto.",
+            "score": 98.0,
+            "id": 2,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cuánto puedo pedir de anticipo?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Cuándo puedo retirar mi recibo de sueldo?",
+                "Recibo de sueldo",
+                "Mi recibo",
+                "Retirar el recibo de sueldo",
+                "¿Cuándo retirar mi recibo de sueldo?",
+                "Quiero retirar mi recibo",
+                "¿En qué fecha están los recibos de sueldo?",
+                "¿Para qué fecha están los recibos?",
+                "¿Cuándo puedo pasar a buscar mi recibo?",
+                "Buscar recibo",
+                "Retirar recibo de sueldo",
+                "El recibo de mi sueldo",
+                "Quiero el recibo de sueldo",
+                "Quisiera saber cuándo podría estar el recibo de dueldo",
+                "Quiero saber cuándo puedo retirar mi recibo de sueldo",
+                "Retirar recibo",
+                "Retiro del recibo de sueldo",
+                "En qué momento puedo buscar mi recibo?",
+                "¿Para qué fecha estará el recibo de sueldo?",
+                "Recibo"
+            ],
+            "answer": "Para aquellos empleados que se encuentren trabajando en las oficinas de San Martín y/o Almafuerte se avisará por comunicado la fecha establecida para la entrega mensual de recibos, y quienes no puedan asistir podrán retirarlo por la oficina de Administración de Personal de lunes a viernes de 13 a 14 horas o de 17 a 18 horas.",
+            "score": 89.45,
+            "id": 11,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cuándo puedo pasar a buscar mi recibo de sueldo?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Qué debo hacer en caso de extravío de la credencial de la medicina prepaga?",
+                "Extravié mi credencial de la prepaga",
+                "Perdí mi credencial de la prepaga",
+                "¿Qué hacer en caso de extravío de la credencial de la prepaga",
+                "¿Qué debo hacer si perdí la credencial de mi medicina prepaga?",
+                "¿Qué hacer si perdí la credencial de mi prepaga",
+                "Perdí la credencial de la medicina prepaga",
+                "No encuentro la credencial de mi medicina prepaga",
+                "No tengo la credencial de mi medicina prepaga",
+                "¿Cómo proceder si perdí la credencial de mi medicina prepaga?",
+                "Perdí la credencial de la prepaga y quiero saber cómo pedir una nueva",
+                "Quiero saber cómo pedir una nueva credencial de la prepaga",
+                "Quiero saber qué tengo que hacer si perdí la credencial de la prepaga",
+                "Perdí la credencial de la prepaga y no sé qué hacer",
+                "No sé dónde dejé la credencial de mi prepaga",
+                "¿Qué hago si perdí la credencial de la medicina prepaga?",
+                "Necesito pedir una nueva credencial de la prepaga",
+                "¿Dónde debo pedir una nueva credencial de la medicina prepaga?",
+                "¿Cómo puedo pedir una nueva credencial de la prepaga?",
+                "¿Qué hacer si extravié la credencual de la medicina prepaga?"
+            ],
+            "answer": "Podrán solicitar la reimpresión a Administración de Personal o bien comunicándose en forma individual con Galeno.",
+            "score": 81.26,
+            "id": 6,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿qué hago si perdí la credencial de la prepaga?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿Es posible mejorar el plan de cobertura médica ofrecido por Practia?",
+                "¿Es posible mejorar el plan de la prepaga ofrecido por Practia?",
+                "¿Es posible mejorar el plan de medicina prepaga ofrecido por Practia?",
+                "¿Puedo mejorar el plan de cobertura médica ofrecido por Practia?",
+                "¿Puedo mejorar el plan de la prepaga ofrecido por Practia?",
+                "¿Puedo mejorar el plan de medicina prepaga ofrecido por Practia?",
+                "Mejorar el plan de cobertura médica",
+                "Mejorar el plan de la prepaga",
+                "Mejorar el plan de medicina prepaga",
+                "Mejorar el plan de la cobertura de médica",
+                "¿Se puede mejorar el plan de la cobertura médica que ofrece Practia?",
+                "¿Se puede mejorar el plan de la prepaga que ofrece Practia?",
+                "Quiero saber si se puede mejorar el plan de la cobertura médica que ofrecen",
+                "Quiero saber si se puede mejorar el plan de la prepaga que ofrecen",
+                "Quisiera saber si es posinle mejorar el plan de la conertura médica que ofrece Practia",
+                "Quisiera saber si es posinle mejorar el plan de la prepaga que ofrece Practia",
+                "¿Puedo contratar un plan de cobetura médica mejor?",
+                "¿Puedo contratar un plan de prepaga mejor?",
+                "¿Puedo contratar un plan de medicina prepaga mejor?"
+            ],
+            "answer": "Sí, siempre y cuando el empleado se haga cargo de la diferencia entre el plan ofrecido por la empresa y el plan elegido. La mencionada diferencia será facturada por Galeno directamente al empleado.",
+            "score": 58.16,
+            "id": 8,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cómo incorporo a alguien a mi plan de prepaga?",
+                "top": 1
+            }
+        },
+        {
+            "questions": [
+                "¿En qué momento debo realizar la carga del F. 572?",
+                "¿En qué momento debo realizar la carga del formulario 572?",
+                "¿En qué momento debo realizar la carga del formulario",
+                "Formulario 572",
+                "F 572",
+                "Formulario del SIRADIG",
+                "SIRADIG",
+                "¿Cuándo debo cargar el formulario 572?",
+                "Carga de formulario 572",
+                "¿Cuándo cargo el formulario 572?",
+                "¿Qué día debo cargar el frmulario 572?",
+                "Carga del formulario 572",
+                "Carga del 572",
+                "Completar formulario 572",
+                "¿Para cuándo debo completar el formulario 572?",
+                "Entregar formulario 572",
+                "Entrega de formulario 572",
+                "¿Hasta cuándo tengo tiempo para cargar el formulario 572"
+            ],
+            "answer": "A fin de que puedan considerarse en tiempo y forma las deducciones mensuales, recomendamos realizar la carga antes del día 20. Luego de esa fecha serán consideradas en la siguiente liquidación.",
+            "score": 51.27,
+            "id": 12,
+            "source": "Custom Editorial",
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ],
+            "question_asked": {
+                "question": "¿Cuándo debo presentar el formulario 512?",
+                "top": 1
+            }
+        }
+    ]
+}

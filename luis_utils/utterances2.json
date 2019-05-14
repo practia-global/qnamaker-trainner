@@ -1,0 +1,502 @@
+[
+    {
+        "text": "¿Qué debo hacer en caso de extravío de la credencial de la medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Extravié mi credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Perdí mi credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué hacer en caso de extravío de la credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué debo hacer si perdí la credencial de mi medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué hacer si perdí la credencial de mi prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Perdí la credencial de la medicina prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "No encuentro la credencial de mi medicina prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "No tengo la credencial de mi medicina prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo proceder si perdí la credencial de mi medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Perdí la credencial de la prepaga y quiero saber cómo pedir una nueva",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber cómo pedir una nueva credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber qué tengo que hacer si perdí la credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Perdí la credencial de la prepaga y no sé qué hacer",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "No sé dónde dejé la credencial de mi prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué hago si perdí la credencial de la medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Necesito pedir una nueva credencial de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Dónde debo pedir una nueva credencial de la medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo puedo pedir una nueva credencial de la prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué hacer si extravié la credencual de la medicina prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentación debo presentar para incorporar a un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo incorporar a un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Incorporar familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Incorporación de un familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Documentación a presentar para incorporar un familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo debo hacer para incorporar un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber qué documentación debo presentar para incorporar un familiar a mi cobetura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentos debo presentar para incorporar un familiar a mi cobertura de salud?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentación debo presentar para agregar a un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo agregar a un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Agregar familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Documentación a presentar para agregar un familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo debo hacer para agregar un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber qué documentación debo presentar para agregar un familiar a mi cobetura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentos debo presentar para agregar un familiar a mi cobertura de salud?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué papeles debo presentar para incorporar a un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Paples a presentar para incorporar un familiar a mi cobertura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber qué papeles debo presentar para incorporar un familiar a mi cobetura",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué papeles debo presentar para incorporar un familiar a mi cobertura de salud?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué tengo que presentar para incorporar un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo tramitar la incorporación de un familiar a mi cobertura?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Es posible mejorar el plan de cobertura médica ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Es posible mejorar el plan de la prepaga ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Es posible mejorar el plan de medicina prepaga ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo mejorar el plan de cobertura médica ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo mejorar el plan de la prepaga ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo mejorar el plan de medicina prepaga ofrecido por Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mejorar el plan de cobertura médica",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mejorar el plan de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mejorar el plan de medicina prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mejorar el plan de la cobertura de médica",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mejorar el plan de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Se puede mejorar el plan de la cobertura médica que ofrece Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Se puede mejorar el plan de la prepaga que ofrece Practia?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber si se puede mejorar el plan de la cobertura médica que ofrecen",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber si se puede mejorar el plan de la prepaga que ofrecen",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quisiera saber si es posinle mejorar el plan de la conertura médica que ofrece Practia",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quisiera saber si es posinle mejorar el plan de la prepaga que ofrece Practia",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo contratar un plan de cobetura médica mejor?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo contratar un plan de prepaga mejor?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo contratar un plan de medicina prepaga mejor?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A qué familiares puedo incorporar a mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A quiénes puedo incorporar a mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué familiares puedo incorporar a mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Incorporar familiares al grupo familiar de mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Incorporar familiares al grupo familiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Grupo familiar de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A quiénes puedo ampliar el grupo familiar de mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Ampliar grupo familiar de la prepaga",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero incorporar familiares a mi grupo familiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A quiénes puedo incorporar en mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A qué familiares puedo agregar a mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A quiénes puedo agregar a mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué familiares puedo agregar a mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Agregar familiares al grupo familiar de mi prepaga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Agregar familiares al grupo familiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero agregar familiares a mi grupo familiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A quiénes puedo agregar en mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Unir familiares a mi grupo familiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿A qué familiares puedo unir a mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué familiares puedo unir a mi grupo familiar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuál es la fecha establecida para el pago de haberes?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo se paga el sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo depositan el sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Haberes",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Pago",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día se paga?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día es el pago de haberes?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día es el pago del sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día se deposita el sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día depositan el salario?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Depósito de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Salario",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día se cobra?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día cobramos?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Día de pago",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cobro",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día depositan?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Depósito",
+        "intentName": "q_faq",
+        "entityLabels": []
+    }
+]

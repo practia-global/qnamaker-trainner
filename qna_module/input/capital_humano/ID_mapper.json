@@ -1,0 +1,15 @@
+{
+    "none": -1,
+    "anticipo_cuando": 1,
+    "anticipo_cuanto": 2,
+    "certificado_solicitud": 3,
+    "cuenta_modificacion": 4,
+    "documentos_actual": 5,
+    "prepaga_credencial": 6,
+    "prepaga_incorporacion": 7,
+    "prepaga_mejora": 8,
+    "prepaga_quienes": 9,
+    "sueldo_pago": 10,
+    "sueldo_recibo": 11,
+    "sueldo_siradig": 12
+}

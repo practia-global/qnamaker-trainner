@@ -1,0 +1,202 @@
+[
+    {
+        "text": "¿Cuándo depositan?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo puedo retirar mi recibo de sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mi recibo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Retirar el recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo retirar mi recibo de sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero retirar mi recibo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué fecha están los recibos de sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Para qué fecha están los recibos?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo puedo pasar a buscar mi recibo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Buscar recibo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Retirar recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "El recibo de mi sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero el recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quisiera saber cuándo podría estar el recibo de dueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero saber cuándo puedo retirar mi recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Retirar recibo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Retiro del recibo de sueldo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "En qué momento puedo buscar mi recibo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Para qué fecha estará el recibo de sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Recibo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué momento debo realizar la carga del F. 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué momento debo realizar la carga del formulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué momento debo realizar la carga del formulario",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "F 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Formulario del SIRADIG",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "SIRADIG",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo debo cargar el formulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Carga de formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo cargo el formulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué día debo cargar el frmulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo cargo el formulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Carga del formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Carga del 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Completar formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Para cuándo debo completar el formulario 572?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Entregar formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Entrega de formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Hasta cuándo tengo tiempo para cargar el formulario 572",
+        "intentName": "q_faq",
+        "entityLabels": []
+    }
+]

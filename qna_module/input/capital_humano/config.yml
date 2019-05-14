@@ -1,0 +1,11 @@
+answer:
+  endpointKey: a76f8cac-865e-441a-bc4f-99321d95953f
+  host: practia-qna-labnlp.azurewebsites.net
+create:
+  method: /knowledgebases/create
+main_host: westus.api.cognitive.microsoft.com
+publish:
+  kb: 5cc97f2a-ce5c-4b66-a822-87e34c617b90
+  method: /knowledgebases/
+service: /qnamaker/v4.0
+qna1key: a94165299716412686090179ccfaf7de

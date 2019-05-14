@@ -1,0 +1,502 @@
+[
+    {
+        "text": "¿En qué momento puede solicitarse un adelanto y cuándo lo tendré disponible en mi cuenta?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo puedo solicitar un adelanto?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué momento puedo solicitar un anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo tendré disponible mi anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánto tarda en estar disponible mi adelanto?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo puedo hacer mi anticipo y a partir de qué fecha lo tengo disponible?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuándo puedo hacer mi anticipo y cuánto darda en estar disponible?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En qué momento está disponible mi anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Solicitud de adelanto",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Un anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mi anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Pedir anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Solicitar anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero un anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo pido mi anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo solicito mi anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Necesito un adelanto",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Que me den un anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Un adelanto quiero",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuál es el monto que puedo solicitar de anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué monto puedo solicitar de anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánta plata puedo pedir como adelanto?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánto dinero puedo pedir como anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En el adelanto cuánta plata me dan?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿En el anticipo cuánto dinero me dan?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿De qué monto es el adelanto?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué monto puedo pedir por anticipado?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Monto por anticipado",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Plata por anticipado",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Dinero de adelanto",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿De cuánto puede ser el adelanto?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿El anticipo de cuánto puede ser?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánto puedo pedir en el anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "En el anticipo cuánto puedo pedir?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánto me dan en el anticipo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "El monto del adelanto",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuánto dinero de anticipo dan?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Saber el monto del anticipo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Conocer el monto del adelanto",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué debo tener en cuenta al momento de solicitar un certificado de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cerificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Solcitiar certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Constancia de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Pedir certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Requqrimientos para pedir constancia de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo pedir certificado de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Solicitar certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Necesito un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Necesito una constancia de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo debo pedir un certificado de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué tengo que presentar para pedir una constacia de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo solicitar un certificado de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero pedir un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero solicitar un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quisiera solicitar un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Pedir una constancia de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué debo tener en cuenta al momento de pedir un certificado de trabajo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero slicitar un certificado de trabajo",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Puedo modificar la cuenta bancaria en la cual se deposita mi sueldo?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Modificar cuenta bancaria",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta bancaria",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo modificar mi cuenta?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero modificar mi cuenta",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Modificar cuenta",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta en la que cobro",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Modificar cuenta en la que cobro",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cambiar cuenta de banco",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cambiar cuenta de depósito",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Mi cuenta quiero cambiar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cómo cambiar mi cuenta?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta en la que cobro",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta de depósito",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cambiar donde me depositan",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Elegir otra cuenta para cobrar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cobrar en otra cuenta",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Depósito en otra cuenta",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cuenta del banco",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentación debo actualizar durante la relación laboral?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Documentación para actualizar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Actualizar documentación",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Documentación",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Información para cargar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cargar información nueva",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Cambiar mis datos",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Actualizar mi información",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué información debo actualizar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuáles son los datos que debo actualizar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Saber la información que tengo que actualizar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Datos para modificar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Modificar mis datos",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero conocer la documentación que debo actualizar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Qué documentación debo actualizar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuál es la información que debo tener actualizada?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "¿Cuáles son los datos que debo actualizar?",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Actualizar mis datos",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Información a modificar",
+        "intentName": "q_faq",
+        "entityLabels": []
+    },
+    {
+        "text": "Quiero modificar mi documentación",
+        "intentName": "q_faq",
+        "entityLabels": []
+    }
+]
